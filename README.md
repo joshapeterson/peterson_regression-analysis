@@ -1,2 +1,2 @@
-# Regression Analysis
-This is a regression analysis assignment I completed for my course at UNC Charlotte.
+# Conducting Regression & Decision Tree Analysis with R
+This is a regression and decision tree analysis assignment I completed for a course at UNC Charlotte.
